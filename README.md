@@ -1,4 +1,4 @@
-*ToDo API для ToDo List*
+*API для ToDo List*
 
 1. Структура проекта:
     - Полный CRUD REST API
@@ -16,6 +16,6 @@
     - Documentation: Swagger UI, ReDoc
 
 3. Запуск:
-    (1) Клонировать репозиторий
-    (2) `docker-compose up --build`
-    (3) Открыть http://localhost:8000/docs
+    - Клонировать репозиторий
+    - `docker-compose up --build`
+    - Открыть http://localhost:8000/docs
